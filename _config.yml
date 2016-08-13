@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: partner dev team
+subtitle: partner dev team blog
 description:
-author: John Doe
+author: partner dev team
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://partnerlabs.github.io/blog
-root: /blog/
+url: http://partnerlabs.github.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -70,5 +70,4 @@ theme: landscape
 deploy:
   type: git
   repository: https://github.com/partnerlabs/partnerlabs.github.com.git
-  branch: master
-
+  branch: gh-pages
