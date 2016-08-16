@@ -72,5 +72,5 @@ theme: phantom
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/partnerlabs/partnerlabs.github.com.git
+  repository: https://github.com/partnerlabs/devblog.git
   branch: gh-pages
