@@ -1,0 +1,54 @@
+# Header
+menu:
+  Home: /devblog
+  Archives: /archives
+  About: /about.html
+
+# Logo Image Source
+logo_src: /images/icon.png
+
+# Theme Main Subtitle
+subtitle_main: 파트너 개발팀의 기술블로그 입니다.
+
+# Theme Secondary subtitle
+susbtitle_secondary: 파트너의 기술스택은 server(node.js, mongodb, aws, azure), mobile(ios, android), web(node.js, reactjs, gulp), tool(gitlab, jenkins)를 가지고 있습니다.
+
+# Footer About Section
+about_footer: 무언가를 만들고, 항상 공부하고 적용하는 것을 좋아하는 사람들이 모였습니다.
+
+# Default post title
+default_post_title: 제목없음
+
+# Default post cover index page (Recommended)
+default_cover_index: "https://placehold.it/450x450"
+
+# Default post cover index page (Optional)
+default_cover_detail:
+
+# Show Dates for posts and pages
+show_dates:
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname: 파트너팀
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+#twitter_url: https://twitter.com/?lang=en
+facebook_url: https://www.facebook.com/grap.page
+#instagram_url: https://www.instagram.com/
+#dribble_url: https://dribbble.com/
+github_url: https://github.com/partnerlabs
+#googleplus_url: https://plus.google.com/
+#behance_url: https://www.behance.net/
+#fivehundredpx_url: https://500px.com/
+#email_url: \#
+#rss_url: \#
